@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 46" width="46" height="46">
+	<title>right - arrow-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: none;stroke: #7c8ee9;stroke-width: 2 } 
+		.s1 { fill: #7c8ee9 } 
+	</style>
+	<g id="Group_39379">
+		<g id="Rectangle_16824">
+			<path id="Layer" class="s0" d="m45 45l-44 0l0-44l44 0l0 44z" />
+		</g>
+		<path id="Icon_material-chevron-right" class="s1" d="m18.82 23.17l6.3-6.3l1.48 1.48l-4.81 4.82l4.81 4.82l-1.48 1.48l-6.3-6.3z" />
+	</g>
+</svg>

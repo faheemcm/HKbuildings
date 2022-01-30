@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.672" height="44" viewBox="0 0 38.672 44">
+  <g id="headphones" transform="translate(-31)">
+    <g id="Group_39386" data-name="Group 39386" transform="translate(36.156 18.047)">
+      <g id="Group_39385" data-name="Group 39385">
+        <path id="Path_95125" data-name="Path 95125" d="M94.867,210A3.871,3.871,0,0,0,91,213.867v10.484a3.867,3.867,0,0,0,7.734,0V213.867A3.871,3.871,0,0,0,94.867,210Z" transform="translate(-91 -210)" fill="#7c8ee9"/>
+      </g>
+    </g>
+    <g id="Group_39388" data-name="Group 39388" transform="translate(31 20.828)">
+      <g id="Group_39387" data-name="Group 39387">
+        <path id="Path_95126" data-name="Path 95126" d="M33.578,243.452a6.4,6.4,0,0,1,.11-1.086A3.859,3.859,0,0,0,31,246.03v5.328a3.859,3.859,0,0,0,2.688,3.664,6.4,6.4,0,0,1-.11-1.086Z" transform="translate(-31 -242.366)" fill="#7c8ee9"/>
+      </g>
+    </g>
+    <g id="Group_39390" data-name="Group 39390" transform="translate(46.469 18.047)">
+      <g id="Group_39389" data-name="Group 39389">
+        <path id="Path_95127" data-name="Path 95127" d="M225.18,210a3.871,3.871,0,0,0-3.867,3.867v10.484a3.871,3.871,0,0,0,3.867,3.867,3.815,3.815,0,0,0,1.108-.181A3.859,3.859,0,0,1,222.6,230.8h-4.1a3.867,3.867,0,1,0,0,2.578h4.1a6.453,6.453,0,0,0,6.445-6.445V213.867A3.871,3.871,0,0,0,225.18,210Z" transform="translate(-211 -210)" fill="#7c8ee9"/>
+      </g>
+    </g>
+    <g id="Group_39392" data-name="Group 39392" transform="translate(66.984 20.828)">
+      <g id="Group_39391" data-name="Group 39391">
+        <path id="Path_95128" data-name="Path 95128" d="M449.722,242.366a6.4,6.4,0,0,1,.11,1.086v10.484a6.4,6.4,0,0,1-.11,1.086,3.859,3.859,0,0,0,2.688-3.664V246.03A3.859,3.859,0,0,0,449.722,242.366Z" transform="translate(-449.722 -242.366)" fill="#7c8ee9"/>
+      </g>
+    </g>
+    <g id="Group_39394" data-name="Group 39394" transform="translate(31)">
+      <g id="Group_39393" data-name="Group 39393">
+        <path id="Path_95129" data-name="Path 95129" d="M50.336,0A19.357,19.357,0,0,0,31,19.336v.033a6.383,6.383,0,0,1,2.637-1.2,16.738,16.738,0,0,1,33.4,0,6.385,6.385,0,0,1,2.637,1.2v-.033A19.357,19.357,0,0,0,50.336,0Z" transform="translate(-31)" fill="#7c8ee9"/>
+      </g>
+    </g>
+  </g>
+</svg>
